@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "githubOwner": "KI-NI-dev",
+  "githubAccountType": "user",
+  "allowedGithubOwners": ["KI-NI-dev"],
+  "configurationUrl": "https://raw.githubusercontent.com/KI-NI-dev/AppStore/main/store-config.json",
+  "repositoryDiscovery": true,
+  "catalogSource": null,
+  "trustedRepositories": [],
+  "packagePins": {}
+}
