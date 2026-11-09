@@ -22,7 +22,20 @@
       "developer": "Kindt Software",
       "license": "Kindt Software Proprietary License v1.0",
       "androidMin": 8,
-      "screenshots": [],
+      "screenshots": [
+        {
+          "src": "https://raw.githubusercontent.com/KI-NI-dev/AppStore/main/screenshots/qr-forge/1.0.0/01-text-qr.jpg",
+          "alt": "QR Forge mit einem QR-Code für den Beispieltext KI-NI App Store"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/KI-NI-dev/AppStore/main/screenshots/qr-forge/1.0.0/02-wlan-qr.jpg",
+          "alt": "QR Forge erstellt einen QR-Code für das offene Beispiel-WLAN Demo-Netz"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/KI-NI-dev/AppStore/main/screenshots/qr-forge/1.0.0/03-url-vorschau.jpg",
+          "alt": "QR Forge zeigt die URL-Vorschau für example.com vor dem Öffnen im Browser"
+        }
+      ],
       "languages": [
         "Deutsch"
       ],
@@ -68,7 +81,20 @@
       "developer": "Kindt Software",
       "license": "Kindt Software Proprietary License v1.0",
       "androidMin": 8,
-      "screenshots": [],
+      "screenshots": [
+        {
+          "src": "https://raw.githubusercontent.com/KI-NI-dev/AppStore/main/screenshots/hashcheck/1.0.0/01-sha256.jpg",
+          "alt": "HashCheck zeigt den berechneten SHA-256 der Beispieldatei"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/KI-NI-dev/AppStore/main/screenshots/hashcheck/1.0.0/02-sollwert.jpg",
+          "alt": "HashCheck bestätigt die Übereinstimmung mit der eingegebenen SHA-256-Prüfsumme"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/KI-NI-dev/AppStore/main/screenshots/hashcheck/1.0.0/03-dateivergleich.jpg",
+          "alt": "HashCheck vergleicht zwei Beispieldateien mit übereinstimmenden SHA-256-Prüfsummen"
+        }
+      ],
       "languages": [
         "Deutsch"
       ],
@@ -114,7 +140,20 @@
       "developer": "Kindt Software",
       "license": "Kindt Software Proprietary License v1.0",
       "androidMin": 8,
-      "screenshots": [],
+      "screenshots": [
+        {
+          "src": "https://raw.githubusercontent.com/KI-NI-dev/AppStore/main/screenshots/unitforge/1.0.0/01-laenge.jpg",
+          "alt": "UnitForge rechnet 2,5 Kilometer in 2500 Meter um"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/KI-NI-dev/AppStore/main/screenshots/unitforge/1.0.0/02-temperatur.jpg",
+          "alt": "UnitForge rechnet 25 Grad Celsius in 77 Grad Fahrenheit um"
+        },
+        {
+          "src": "https://raw.githubusercontent.com/KI-NI-dev/AppStore/main/screenshots/unitforge/1.0.0/03-favoriten.jpg",
+          "alt": "UnitForge zeigt die Umrechnung von Celsius nach Fahrenheit als gespeicherten Favoriten"
+        }
+      ],
       "languages": [
         "Deutsch"
       ],
