@@ -2,10 +2,26 @@
   "schemaVersion": 1,
   "githubOwner": "KI-NI-dev",
   "githubAccountType": "user",
-  "allowedGithubOwners": ["KI-NI-dev"],
+  "allowedGithubOwners": [
+    "KI-NI-dev"
+  ],
   "configurationUrl": "https://raw.githubusercontent.com/KI-NI-dev/AppStore/main/store-config.json",
-  "repositoryDiscovery": true,
-  "catalogSource": null,
-  "trustedRepositories": [],
-  "packagePins": {}
+  "repositoryDiscovery": false,
+  "catalogSource": {
+    "owner": "KI-NI-dev",
+    "repository": "AppStore",
+    "ref": "main",
+    "path": "catalog.json"
+  },
+  "trustedRepositories": [
+    "KI-NI-dev/AppStore",
+    "KI-NI-dev/QR-Forge",
+    "KI-NI-dev/HashCheck",
+    "KI-NI-dev/UnitForge"
+  ],
+  "packagePins": {
+    "de.kindtsoftware.qrforge": "28110ee721636bad6fa5f8882d09efd1e6ac3dab6141a3e5b6c1cca9313772b8",
+    "de.kindtsoftware.hashcheck": "c9a6f9f9f97d444eee54411c3bce7a53b6b78d8a10b7d6f64a0675c5e5e79174",
+    "de.kindtsoftware.unitforge": "e72c3c40ef9eb8fe323a9b67a26710c00b6464c698b6805977ff83d3c0a577ca"
+  }
 }

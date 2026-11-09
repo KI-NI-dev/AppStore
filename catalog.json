@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "githubOwner": "KI-NI-dev",
+  "apps": [
+    {
+      "id": "qr-forge",
+      "name": "QR Forge",
+      "subtitle": "QR-Codes erstellen, scannen und als PNG teilen.",
+      "description": "Erstellt QR-Codes für Text, Webadressen, WLAN und Kontakte. Liest Codes aus Bildern und über die Kamera. Webadressen werden vor dem Öffnen zur Bestätigung angezeigt.",
+      "icon": "scan",
+      "color": "#36D4EC",
+      "permissions": [
+        "Kamera (nur für den Live-Scan)"
+      ],
+      "features": [
+        "QR-Codes offline erstellen",
+        "Bildimport und Kamera-Scan",
+        "PNG-Export und lokaler Verlauf"
+      ],
+      "category": "Werkzeuge",
+      "demo": false,
+      "developer": "Kindt Software",
+      "license": "Kindt Software Proprietary License v1.0",
+      "androidMin": 8,
+      "screenshots": [],
+      "languages": [
+        "Deutsch"
+      ],
+      "technical": {
+        "packageName": "de.kindtsoftware.qrforge",
+        "minSdk": 26,
+        "offline": true
+      },
+      "releases": [
+        {
+          "version": "1.0.0",
+          "versionCode": 1,
+          "date": "2026-11-09",
+          "sizeBytes": 1264449,
+          "changelog": [
+            "Erste Version mit QR-Erstellung, Scan, Bildimport und PNG-Export."
+          ],
+          "downloadUrl": "https://github.com/KI-NI-dev/QR-Forge/releases/download/v1.0.0/QR-Forge-1.0.0.apk",
+          "sha256": "33d6bb9511258429fea6e057d8a24a1b1cff809b86d86bb501e38e556d451931",
+          "signature": {
+            "verified": true,
+            "scheme": "v3",
+            "certificateSha256": "28110ee721636bad6fa5f8882d09efd1e6ac3dab6141a3e5b6c1cca9313772b8"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hashcheck",
+      "name": "HashCheck",
+      "subtitle": "Dateiprüfsummen lokal berechnen und vergleichen.",
+      "description": "Berechnet SHA-256 und SHA-512 für Dateien und vergleicht sie mit einer zweiten Datei oder einem Sollwert. SHA-1 und MD5 sind für Altformate verfügbar. Ergebnisse lassen sich kopieren oder als Text exportieren.",
+      "icon": "files",
+      "color": "#78BBFF",
+      "permissions": [],
+      "features": [
+        "SHA-256 und SHA-512 berechnen",
+        "Dateien und Soll-Prüfsummen vergleichen",
+        "Prüfbericht als Text exportieren"
+      ],
+      "category": "Werkzeuge",
+      "demo": false,
+      "developer": "Kindt Software",
+      "license": "Kindt Software Proprietary License v1.0",
+      "androidMin": 8,
+      "screenshots": [],
+      "languages": [
+        "Deutsch"
+      ],
+      "technical": {
+        "packageName": "de.kindtsoftware.hashcheck",
+        "minSdk": 26,
+        "offline": true
+      },
+      "releases": [
+        {
+          "version": "1.0.0",
+          "versionCode": 1,
+          "date": "2026-11-09",
+          "sizeBytes": 1067617,
+          "changelog": [
+            "Erste Version mit lokaler Hashberechnung, Vergleich und Textexport."
+          ],
+          "downloadUrl": "https://github.com/KI-NI-dev/HashCheck/releases/download/v1.0.0/HashCheck-1.0.0.apk",
+          "sha256": "c46376b4d7ef8671aa3a0213ee96223bbc594a5e6bc2197d50fdb505699499db",
+          "signature": {
+            "verified": true,
+            "scheme": "v3",
+            "certificateSha256": "c9a6f9f9f97d444eee54411c3bce7a53b6b78d8a10b7d6f64a0675c5e5e79174"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unitforge",
+      "name": "UnitForge",
+      "subtitle": "Einheiten in elf Bereichen offline umrechnen.",
+      "description": "Rechnet unter anderem Längen, Temperaturen und Datenmengen direkt bei der Eingabe um. Die Suche findet Einheiten und Symbole. Häufige Umrechnungspaare lassen sich lokal als Favoriten speichern.",
+      "icon": "focus",
+      "color": "#ADABFF",
+      "permissions": [],
+      "features": [
+        "Umrechnung in elf Bereichen",
+        "Suche nach Einheiten und Symbolen",
+        "Lokale Favoriten und Richtungswechsel"
+      ],
+      "category": "Werkzeuge",
+      "demo": false,
+      "developer": "Kindt Software",
+      "license": "Kindt Software Proprietary License v1.0",
+      "androidMin": 8,
+      "screenshots": [],
+      "languages": [
+        "Deutsch"
+      ],
+      "technical": {
+        "packageName": "de.kindtsoftware.unitforge",
+        "minSdk": 26,
+        "offline": true
+      },
+      "releases": [
+        {
+          "version": "1.0.0",
+          "versionCode": 1,
+          "date": "2026-11-09",
+          "sizeBytes": 1067617,
+          "changelog": [
+            "Erste Version mit elf Umrechnungsbereichen, Suche und Favoriten.",
+            "Ergebnisse zeigen nur benötigte Nachkommastellen. Die bisherige Berechnungs- und Anzeigepräzision bleibt erhalten."
+          ],
+          "downloadUrl": "https://github.com/KI-NI-dev/UnitForge/releases/download/v1.0.0/UnitForge-1.0.0.apk",
+          "sha256": "e664ff6733b6f6f8d688004d3f2a1542a9aed3b0043515d9008064b6ed25d90b",
+          "signature": {
+            "verified": true,
+            "scheme": "v3",
+            "certificateSha256": "e72c3c40ef9eb8fe323a9b67a26710c00b6464c698b6805977ff83d3c0a577ca"
+          }
+        }
+      ]
+    }
+  ]
+}
