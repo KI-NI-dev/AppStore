@@ -181,6 +181,324 @@
           }
         }
       ]
+    },
+    {
+      "id": "orbit-rush",
+      "name": "ORBIT RUSH",
+      "subtitle": "Wechsle im richtigen Moment die Umlaufbahn und halte deine Kugel im Spiel.",
+      "description": "Zwei Umlaufbahnen, steigendes Tempo und ein lokaler Rekord. Wähle einen freigeschalteten Skin und versuche im nächsten Lauf, noch mehr Hindernisse zu passieren.",
+      "category": "Pocket Arcade",
+      "icon": "orbit-rush",
+      "color": "#50E7FF",
+      "demo": false,
+      "developer": "Kindt Software",
+      "license": "Kindt Software Proprietary License v1.0",
+      "androidMin": 8,
+      "permissions": [],
+      "features": [
+        "Zwei Umlaufbahnen",
+        "Lokaler Rekord",
+        "Freischaltbare Skins"
+      ],
+      "screenshots": [
+        {
+          "src": "/screenshots/orbit-rush/1.0.1/01-spiel.png",
+          "alt": "ORBIT RUSH mit gespeicherter Runde und zwei Umlaufbahnen"
+        }
+      ],
+      "languages": [
+        "Deutsch"
+      ],
+      "technical": {
+        "packageName": "dev.kini.arcade.orbitrush",
+        "architectures": [
+          "universal"
+        ],
+        "offline": true
+      },
+      "releases": [
+        {
+          "version": "1.0.1",
+          "versionCode": 2,
+          "date": "2026-11-12",
+          "sizeBytes": 58830,
+          "changelog": [
+            "Überspringbares Tutorial, klarere Fortschrittsziele und gezieltes Spielfeedback."
+          ],
+          "downloadUrl": "https://github.com/KI-NI-dev/Pocket-Arcade-Releases/releases/download/v1.0.1/orbit-rush-1.0.1.apk",
+          "sha256": "ae757d7b4b7050760b38853feb7f5ce530016e5b5378d9e4ddfd1d0c3e7a7e2e",
+          "signature": {
+            "verified": true,
+            "scheme": "v3",
+            "certificateSha256": "821fb2a968556075284a1038714f98e245f4c54ceb8d32dfc645a5f7b47526c3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "stack-zero",
+      "name": "STACK ZERO",
+      "subtitle": "Setze bewegliche Blöcke präzise übereinander und baue deinen höchsten Turm.",
+      "description": "Bei jedem Schnitt schrumpft die Auflage für den nächsten Block. Triff die Kante, halte die Combo und verbessere deine lokal gespeicherten Bestwerte.",
+      "category": "Pocket Arcade",
+      "icon": "stack-zero",
+      "color": "#FF73C6",
+      "demo": false,
+      "developer": "Kindt Software",
+      "license": "Kindt Software Proprietary License v1.0",
+      "androidMin": 8,
+      "permissions": [],
+      "features": [
+        "Präzisionsstapel",
+        "Combo-Ziele",
+        "Lokal gespeicherte Bestwerte"
+      ],
+      "screenshots": [
+        {
+          "src": "/screenshots/stack-zero/1.0.1/01-spiel.png",
+          "alt": "STACK ZERO mit gestapelten Blöcken und Combo-Ziel"
+        }
+      ],
+      "languages": [
+        "Deutsch"
+      ],
+      "technical": {
+        "packageName": "dev.kini.arcade.stackzero",
+        "architectures": [
+          "universal"
+        ],
+        "offline": true
+      },
+      "releases": [
+        {
+          "version": "1.0.1",
+          "versionCode": 2,
+          "date": "2026-11-12",
+          "sizeBytes": 58830,
+          "changelog": [
+            "Überspringbares Tutorial, klarere Fortschrittsziele und gezieltes Spielfeedback."
+          ],
+          "downloadUrl": "https://github.com/KI-NI-dev/Pocket-Arcade-Releases/releases/download/v1.0.1/stack-zero-1.0.1.apk",
+          "sha256": "eb9aa36b3f8df599270233fa7c18b3c1c1279f0588b4b8a3532ef8aa36708197",
+          "signature": {
+            "verified": true,
+            "scheme": "v3",
+            "certificateSha256": "821fb2a968556075284a1038714f98e245f4c54ceb8d32dfc645a5f7b47526c3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "neo-city",
+      "name": "NEO CITY",
+      "subtitle": "Baue und entwickle eine futuristische Stadt auf einem 12 × 12 großen Raster.",
+      "description": "Sieben Gebäudetypen bringen Wohnraum, Strom, Produktion und Forschung zusammen. Mit Upgrades und einer wachsenden Bevölkerung erreichst du das Stadtziel.",
+      "category": "Pocket Arcade",
+      "icon": "neo-city",
+      "color": "#55F5A6",
+      "demo": false,
+      "developer": "Kindt Software",
+      "license": "Kindt Software Proprietary License v1.0",
+      "androidMin": 8,
+      "permissions": [],
+      "features": [
+        "12 × 12 Baukacheln",
+        "Sieben Gebäudetypen",
+        "Ressourcen und Ausbaustufen"
+      ],
+      "screenshots": [
+        {
+          "src": "/screenshots/neo-city/1.0.1/01-spiel.png",
+          "alt": "NEO CITY mit Stadtplan, Wohnmodul und Ressourcenanzeige"
+        }
+      ],
+      "languages": [
+        "Deutsch"
+      ],
+      "technical": {
+        "packageName": "dev.kini.arcade.neocity",
+        "architectures": [
+          "universal"
+        ],
+        "offline": true
+      },
+      "releases": [
+        {
+          "version": "1.0.1",
+          "versionCode": 2,
+          "date": "2026-11-12",
+          "sizeBytes": 62926,
+          "changelog": [
+            "Überspringbares Tutorial, klarere Fortschrittsziele und gezieltes Spielfeedback."
+          ],
+          "downloadUrl": "https://github.com/KI-NI-dev/Pocket-Arcade-Releases/releases/download/v1.0.1/neo-city-1.0.1.apk",
+          "sha256": "48ea8bf60dfd9cee768009b71e108d1d46b3f84679ac49c8b4fbf565d427f435",
+          "signature": {
+            "verified": true,
+            "scheme": "v3",
+            "certificateSha256": "821fb2a968556075284a1038714f98e245f4c54ceb8d32dfc645a5f7b47526c3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "hex-dominion",
+      "name": "HEX DOMINION",
+      "subtitle": "Erobere Relais und das gegnerische Hauptquartier in einem rundenbasierten Duell.",
+      "description": "Auf dem Hexfeld zählt jeder Zug. Halte Versorgungslinien offen, entscheide zwischen Verstärkung und Angriff und tritt gegen drei lokale KI-Schwierigkeiten an.",
+      "category": "Pocket Arcade",
+      "icon": "hex-dominion",
+      "color": "#C3A1FF",
+      "demo": false,
+      "developer": "Kindt Software",
+      "license": "Kindt Software Proprietary License v1.0",
+      "androidMin": 8,
+      "permissions": [],
+      "features": [
+        "Rundenbasierte Hexfeldstrategie",
+        "Drei lokale KI-Schwierigkeiten",
+        "Relais und Nachschub"
+      ],
+      "screenshots": [
+        {
+          "src": "/screenshots/hex-dominion/1.0.1/01-spiel.png",
+          "alt": "HEX DOMINION mit Hexfeldern, Relais und Hauptquartieren"
+        }
+      ],
+      "languages": [
+        "Deutsch"
+      ],
+      "technical": {
+        "packageName": "dev.kini.arcade.hexdominion",
+        "architectures": [
+          "universal"
+        ],
+        "offline": true
+      },
+      "releases": [
+        {
+          "version": "1.0.1",
+          "versionCode": 2,
+          "date": "2026-11-12",
+          "sizeBytes": 67022,
+          "changelog": [
+            "Überspringbares Tutorial, klarere Fortschrittsziele und gezieltes Spielfeedback."
+          ],
+          "downloadUrl": "https://github.com/KI-NI-dev/Pocket-Arcade-Releases/releases/download/v1.0.1/hex-dominion-1.0.1.apk",
+          "sha256": "fbc87203058c7f95ea47a0483040f3d58580a661fbb78be746a8d557d9778d16",
+          "signature": {
+            "verified": true,
+            "scheme": "v3",
+            "certificateSha256": "821fb2a968556075284a1038714f98e245f4c54ceb8d32dfc645a5f7b47526c3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "circuit-flow",
+      "name": "CIRCUIT FLOW",
+      "subtitle": "Drehe Leitungen, bis die Energiequelle alle Felder des Schaltkreises erreicht.",
+      "description": "50 lösbare Leitungsrätsel warten auf dich. Sammle bis zu drei Sterne pro Level und verbessere frühere Lösungen über die Levelauswahl.",
+      "category": "Pocket Arcade",
+      "icon": "circuit-flow",
+      "color": "#FFD275",
+      "demo": false,
+      "developer": "Kindt Software",
+      "license": "Kindt Software Proprietary License v1.0",
+      "androidMin": 8,
+      "permissions": [],
+      "features": [
+        "50 lösbare Rätsel",
+        "Bis zu drei Sterne pro Level",
+        "Lokale Fortschrittsspeicherung"
+      ],
+      "screenshots": [
+        {
+          "src": "/screenshots/circuit-flow/1.0.1/01-spiel.png",
+          "alt": "CIRCUIT FLOW mit Leitungen, Stromquelle und Zuganzeige"
+        }
+      ],
+      "languages": [
+        "Deutsch"
+      ],
+      "technical": {
+        "packageName": "dev.kini.arcade.circuitflow",
+        "architectures": [
+          "universal"
+        ],
+        "offline": true
+      },
+      "releases": [
+        {
+          "version": "1.0.1",
+          "versionCode": 2,
+          "date": "2026-11-12",
+          "sizeBytes": 58830,
+          "changelog": [
+            "Überspringbares Tutorial, klarere Fortschrittsziele und gezieltes Spielfeedback."
+          ],
+          "downloadUrl": "https://github.com/KI-NI-dev/Pocket-Arcade-Releases/releases/download/v1.0.1/circuit-flow-1.0.1.apk",
+          "sha256": "4c0c85d88e0ff16876907f2b472905c6917e115ce011c7434af3dbaccad968d6",
+          "signature": {
+            "verified": true,
+            "scheme": "v3",
+            "certificateSha256": "821fb2a968556075284a1038714f98e245f4c54ceb8d32dfc645a5f7b47526c3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "astro-miner",
+      "name": "ASTRO MINER",
+      "subtitle": "Baue eine Weltraummine mit vier Rohstoffen und drei Drohnentypen auf.",
+      "description": "Plane deine Investitionen in Erz, Kristall, Eis und Plasma. Drei spezialisierte Drohnentypen produzieren auch während begrenzter Abwesenheit.",
+      "category": "Pocket Arcade",
+      "icon": "astro-miner",
+      "color": "#7EA8FF",
+      "demo": false,
+      "developer": "Kindt Software",
+      "license": "Kindt Software Proprietary License v1.0",
+      "androidMin": 8,
+      "permissions": [],
+      "features": [
+        "Vier Rohstoffe",
+        "Drei Drohnentypen",
+        "Begrenzter Offline-Ertrag"
+      ],
+      "screenshots": [
+        {
+          "src": "/screenshots/astro-miner/1.0.1/01-spiel.png",
+          "alt": "ASTRO MINER mit Asteroid, Rohstoffen und Drohnenflotte"
+        }
+      ],
+      "languages": [
+        "Deutsch"
+      ],
+      "technical": {
+        "packageName": "dev.kini.arcade.astrominer",
+        "architectures": [
+          "universal"
+        ],
+        "offline": true
+      },
+      "releases": [
+        {
+          "version": "1.0.1",
+          "versionCode": 2,
+          "date": "2026-11-12",
+          "sizeBytes": 67022,
+          "changelog": [
+            "Überspringbares Tutorial, klarere Fortschrittsziele und gezieltes Spielfeedback."
+          ],
+          "downloadUrl": "https://github.com/KI-NI-dev/Pocket-Arcade-Releases/releases/download/v1.0.1/astro-miner-1.0.1.apk",
+          "sha256": "09fb8adb00024b26db35a763a7f186472ae51aa9eb0539b293c94057d3cfffad",
+          "signature": {
+            "verified": true,
+            "scheme": "v3",
+            "certificateSha256": "821fb2a968556075284a1038714f98e245f4c54ceb8d32dfc645a5f7b47526c3"
+          }
+        }
+      ]
     }
   ]
 }

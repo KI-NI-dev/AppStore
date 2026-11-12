@@ -5,23 +5,30 @@
   "allowedGithubOwners": [
     "KI-NI-dev"
   ],
-  "configurationUrl": "https://raw.githubusercontent.com/KI-NI-dev/AppStore/main/store-config.json",
+  "configurationUrl": "https://raw.githubusercontent.com/KI-NI-dev/AppStore/main/store-config-v126.json",
   "repositoryDiscovery": false,
   "catalogSource": {
     "owner": "KI-NI-dev",
     "repository": "AppStore",
     "ref": "main",
-    "path": "catalog.json"
+    "path": "catalog-v126.json"
   },
   "trustedRepositories": [
     "KI-NI-dev/AppStore",
     "KI-NI-dev/QR-Forge",
     "KI-NI-dev/HashCheck",
-    "KI-NI-dev/UnitForge"
+    "KI-NI-dev/UnitForge",
+    "KI-NI-dev/Pocket-Arcade-Releases"
   ],
   "packagePins": {
     "de.kindtsoftware.qrforge": "28110ee721636bad6fa5f8882d09efd1e6ac3dab6141a3e5b6c1cca9313772b8",
     "de.kindtsoftware.hashcheck": "c9a6f9f9f97d444eee54411c3bce7a53b6b78d8a10b7d6f64a0675c5e5e79174",
-    "de.kindtsoftware.unitforge": "e72c3c40ef9eb8fe323a9b67a26710c00b6464c698b6805977ff83d3c0a577ca"
+    "de.kindtsoftware.unitforge": "e72c3c40ef9eb8fe323a9b67a26710c00b6464c698b6805977ff83d3c0a577ca",
+    "dev.kini.arcade.orbitrush": "821fb2a968556075284a1038714f98e245f4c54ceb8d32dfc645a5f7b47526c3",
+    "dev.kini.arcade.stackzero": "821fb2a968556075284a1038714f98e245f4c54ceb8d32dfc645a5f7b47526c3",
+    "dev.kini.arcade.neocity": "821fb2a968556075284a1038714f98e245f4c54ceb8d32dfc645a5f7b47526c3",
+    "dev.kini.arcade.hexdominion": "821fb2a968556075284a1038714f98e245f4c54ceb8d32dfc645a5f7b47526c3",
+    "dev.kini.arcade.circuitflow": "821fb2a968556075284a1038714f98e245f4c54ceb8d32dfc645a5f7b47526c3",
+    "dev.kini.arcade.astrominer": "821fb2a968556075284a1038714f98e245f4c54ceb8d32dfc645a5f7b47526c3"
   }
 }
